@@ -1,4 +1,4 @@
-To try game !
+To try the game !
 
 Download the ZIP or clone this repo
 
